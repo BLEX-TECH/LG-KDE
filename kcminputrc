@@ -1,0 +1,8 @@
+[Libinput][1241][64568][USB Gaming Mouse]
+PointerAcceleration=-0.120
+PointerAccelerationProfile=1
+ScrollFactor=1.5
+
+[Mouse]
+cursorSize=32
+cursorTheme=Hatsune-Miku
